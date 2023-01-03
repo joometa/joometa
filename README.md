@@ -1,11 +1,11 @@
-### Hi there 👋
+<div align=center>
 
-<!-- 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=header&text=Lee%20Jeongjoo&fontSize=70&fontColor=0c2e3d)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoometa&count_bg=%232982E7&title_bg=%23555255&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  
+</div>  
 <!--
 **joometa/joometa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
